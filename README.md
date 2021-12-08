@@ -8,4 +8,4 @@
 
 # How to run the experiment
 
-- python run 
+	python rl_controller.py
